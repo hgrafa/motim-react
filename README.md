@@ -1,4 +1,4 @@
-# **Sharp Coders 2** 🚀⚛️
+# **Formação React - Motim Educação** 🚀⚛️
 
 - Treinamento Frontend na [**Motim Educação**](https://motim.me/)
 - Objetivos: **Javascript**, **Typescript**, **`React`** e **`Nextjs`**
