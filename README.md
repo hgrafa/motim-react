@@ -14,8 +14,6 @@
 
 ## 💙 Contribua
 
-Confira mais no nosso [**código de conduta**](/CODE_OF_CONDUCT.md).
-
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar.💙
 
 1. Realize um **Fork** do projeto
