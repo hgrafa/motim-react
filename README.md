@@ -1,7 +1,7 @@
 # **Formação React - Motim Educação** 🚀⚛️
 
 - Treinamento Frontend na [**Motim Educação**](https://motim.me/)
-- Objetivos: **Javascript**, **Typescript**, **`React`** e **`Nextjs`**
+- Objetivos: **`Javascript`**, **`Typescript`**, **`React`** e **`Nextjs`**
 - Professor e Orientador: [Hugo Rafael](https://github.com/hgrafa)
 - Turma: MO09RE
 
