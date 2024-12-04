@@ -1,8 +1,9 @@
-# **Sharp Coders 2** 🪑⚛️
+# **Sharp Coders 2** 🚀⚛️
 
-- Turma Frontend na [**Motim Educação**](https://motim.me/)
+- Treinamento Frontend na [**Motim Educação**](https://motim.me/)
 - Objetivos: **Javascript**, **Typescript**, **`React`** e **`Nextjs`**
 - Professor e Orientador: [Hugo Rafael](https://github.com/hgrafa)
+- Turma? MO09RE
 
 ## 🧭 Sumário
 
